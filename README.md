@@ -2,3 +2,4 @@
 ## otusQA-2022-08
 
 We are QA Engineers
+We are developers
